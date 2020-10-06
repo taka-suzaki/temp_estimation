@@ -1,5 +1,5 @@
 classes=1
-train = /Users/suzaki/Sotuken/face_picture_and_tempmap/darknet/cfg/temp0922/train.txt
-valid = /Users/suzaki/Sotuken/face_picture_and_tempmap/darknet/cfg/temp0922/test.txt
-names = /Users/suzaki/Sotuken/face_picture_and_tempmap/darknet/cfg/temp0922/classes.txt
-backup = /Users/suzaki/Sotuken/face_picture_and_tempmap/darknet/cfg/temp0922/backup
+train = ./cfg/temp1006/train.txt
+valid = ./cfg/temp1006/test.txt
+names = ./cfg/temp1006/classes.txt
+backup = ./cfg/temp1006/backup
